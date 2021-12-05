@@ -1,0 +1,70 @@
+.section {
+    height: 100vh;
+    width: 100vw;
+    max-height: 100vh;
+    padding-top: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    z-index: 5;
+}
+
+.section div {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-evenly;
+    max-height: 80vh;
+    width: 50%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.section div img {
+    width: auto;
+    max-height: 346px;
+}
+
+.section p {
+    margin-top: 0;
+    margin-bottom: 14px;
+}
+
+.section p, span {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.section button {
+    color: #FFF;
+    background-color: transparent;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+    padding: 0;
+}
+
+.section button:hover {
+    text-decoration: underline;
+}
+
+@media (min-width: 768px) { 
+    .section div img {
+        width: auto;
+        max-height: 60vh;
+    }
+
+    .section div {
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+    }
+
+    .section button {
+        font-size: 1.5rem;
+    }
+}
+
+
+

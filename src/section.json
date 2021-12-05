@@ -1,0 +1,32 @@
+[
+    {
+        "issue": 1,
+        "image": "issue_1.jpg",
+        "isAvailable": false,
+        "color": "#b9cd6e"
+    },
+    {
+       "issue": 2,
+        "image": "issue_2.jpg",
+        "isAvailable": true,
+        "color": "#7cd9fb"
+    },
+    {
+        "issue": 3,
+        "image": "issue_3.jpg",
+        "isAvailable": true,
+        "color": "#eb7c13"
+    },
+    {
+        "issue": 4,
+        "image": "issue_4.jpg",
+        "isAvailable": true,
+        "color": "#a8b7de"
+    },
+    {
+        "issue": 5,
+        "image": "issue_5.jpg",
+        "isAvailable": true,
+        "color": "#0a85c4"
+    }
+]
