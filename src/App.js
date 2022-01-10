@@ -16,7 +16,7 @@ function App() {
     <div className={classes.App} style={{backgroundColor: activeSection.color}}>
       <header>
         <div>
-          <h1>Bookie Monsters Club</h1>
+          <h1>Rainbow Scroll</h1>
         </div>
       </header>
       <main>

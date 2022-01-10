@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  font-family: 'Patrick Hand', sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #251d20;
   transition: background-color 500ms ease-out 200ms;
   height: 100%;
@@ -9,6 +9,10 @@
 .App header {
   top: 0;
   left: 0;
+}
+
+.App h1 {
+  font-family: 'Leckerli One', cursive;
 }
 
 .App header,

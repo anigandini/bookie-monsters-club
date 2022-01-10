@@ -1,4 +1,4 @@
-# Bookie Monsters Club
+# Rainbow Scroll
 
 Minimal full page scroll template in React. Using Hooks and CSS modules.
 
